@@ -369,3 +369,13 @@ GameView에서 onDraw를 통해 공의 움직임과 벽돌을 그리며,
 그 다음, 상위 3개의 점수를 StringBuilder에 추가하고, 현 점수 아래에 표출되는 scoreView의 텍스트를 StringBuilder로 받아온 텍스트로 설정합니다.
 
 
+-
+
+발표 영상
+-
+
+https://youtu.be/Zx5sS_-c_-c?si=tgueo2NJ51YWtU3-
+
+아랫집에서 클래임이 올라와서 목소리가 작습니다... 조용히 찍은 거라 가라 앉은 거니 양해해주시면 감사하겠습니다.
+
+
